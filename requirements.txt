@@ -1,0 +1,10 @@
+asteroid
+librosa
+matplotlib
+numpy
+scipy
+seaborn
+seaborn-image
+soundfile
+torch
+torchaudio
